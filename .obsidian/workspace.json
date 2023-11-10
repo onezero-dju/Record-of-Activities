@@ -1,48 +1,39 @@
 {
   "main": {
-    "id": "8518ad4d3b44424c",
+    "id": "cb059bfa53abc297",
     "type": "split",
     "children": [
       {
-        "id": "c8cac47e049270e4",
+        "id": "f827d5d26ab2c31a",
         "type": "tabs",
         "children": [
           {
-            "id": "448f7ba508f72ad2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6941aa2618304c78",
+            "id": "13029dfbee0319eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "활동 문서/23-11/1주차/231101(수).md",
+                "file": "활동 문서/23-11/1주차/231103(금).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3d27fcfc083ce23c",
+    "id": "2f544e26e2e988bf",
     "type": "split",
     "children": [
       {
-        "id": "d52d41efc2eaa010",
+        "id": "8412c7ec23898ae1",
         "type": "tabs",
         "children": [
           {
-            "id": "dabb8ef5a0e24eff",
+            "id": "e6dc909a7f2995ac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +43,7 @@
             }
           },
           {
-            "id": "1e44647c65ac5769",
+            "id": "ab5ca6aa22dcc373",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +58,7 @@
             }
           },
           {
-            "id": "41905e155d8a5236",
+            "id": "e99be4329395a50b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "2dc16fb94a2ed063",
+    "id": "a8c9ee02ceb58295",
     "type": "split",
     "children": [
       {
-        "id": "7863895e37f9231a",
+        "id": "15f90b572f6adc14",
         "type": "tabs",
         "children": [
           {
-            "id": "e24f39332aa5c683",
+            "id": "f88cc7966a3cec85",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "활동 문서/23-11/1주차/231101(수).md",
+                "file": "활동 문서/23-11/1주차/231103(금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +97,19 @@
             }
           },
           {
-            "id": "a5ae323c6e576f95",
+            "id": "134a4cfdc596f079",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "활동 문서/23-11/1주차/231101(수).md",
+                "file": "활동 문서/23-11/1주차/231103(금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f5c21b48d814d065",
+            "id": "29ce1c8dd6d7a1da",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,12 +120,12 @@
             }
           },
           {
-            "id": "b6bbee23725ed041",
+            "id": "3e0c15d1b7b9fdf9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "활동 문서/23-11/1주차/231101(수).md"
+                "file": "활동 문서/23-11/1주차/231103(금).md"
               }
             }
           }
@@ -147,21 +138,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6941aa2618304c78",
+  "active": "13029dfbee0319eb",
   "lastOpenFiles": [
-    "README.md",
     "활동 문서/23-11/1주차/231101(수).md",
-    "활동 문서/23-11/1주차",
-    "활동 문서/23-11",
-    "기록과 문서/Untitled",
-    "활동 문서"
+    "활동 문서/23-11/2주차/231106(월).md"
   ]
 }
