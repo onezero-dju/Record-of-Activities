@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "01e1550e0e1a09d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "활동 문서/23-11/2주차/231110(금).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "활동 문서/23-11/2주차/231110(금).md",
+                "file": "활동 문서/23-11/2주차/231106(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "활동 문서/23-11/2주차/231110(금).md",
+                "file": "활동 문서/23-11/2주차/231106(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "활동 문서/23-11/2주차/231110(금).md"
+                "file": "활동 문서/23-11/2주차/231106(월).md"
               }
             }
           }
@@ -161,8 +148,8 @@
   },
   "active": "e6dc909a7f2995ac",
   "lastOpenFiles": [
-    "활동 문서/23-11/2주차/231106(월).md",
     "활동 문서/23-11/2주차/231110(금).md",
+    "활동 문서/23-11/2주차/231106(월).md",
     "활동 문서/23-11/1주차/231103(금).md",
     "활동 문서/23-11/1주차/231101(수).md"
   ]
