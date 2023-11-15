@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "cb059bfa53abc297",
+    "id": "2edf0a958f250981",
     "type": "split",
     "children": [
       {
-        "id": "f827d5d26ab2c31a",
+        "id": "7a43b7f70bf33c07",
         "type": "tabs",
         "children": [
           {
-            "id": "13029dfbee0319eb",
+            "id": "f192ae7b3f76b1ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "01e1550e0e1a09d1",
+            "id": "41b5e692551a3acd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "활동 문서/23-11/3주차/231113(월).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01e1550e0e1a09d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "활동 문서/23-11/2주차/231106(월).md",
+                "file": "활동 문서/23-11/3주차/231115(수).md",
                 "mode": "source",
                 "source": false
               }
@@ -50,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2f544e26e2e988bf",
+    "id": "f2d34c132ae09f85",
     "type": "split",
     "children": [
       {
-        "id": "8412c7ec23898ae1",
+        "id": "863ec8e43705cbe4",
         "type": "tabs",
         "children": [
           {
-            "id": "e6dc909a7f2995ac",
+            "id": "d85955c2a2519fa3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +56,7 @@
             }
           },
           {
-            "id": "ab5ca6aa22dcc373",
+            "id": "e30c2dddb7709944",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +71,7 @@
             }
           },
           {
-            "id": "e99be4329395a50b",
+            "id": "49bbc2b897235f70",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "a8c9ee02ceb58295",
+    "id": "157162c534052900",
     "type": "split",
     "children": [
       {
-        "id": "15f90b572f6adc14",
+        "id": "484e0875d339fbed",
         "type": "tabs",
         "children": [
           {
-            "id": "f88cc7966a3cec85",
+            "id": "61ea75f0287b3054",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "활동 문서/23-11/3주차/231113(월).md",
+                "file": "활동 문서/23-11/3주차/231115(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +110,19 @@
             }
           },
           {
-            "id": "134a4cfdc596f079",
+            "id": "50b80ca7d5671b13",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "활동 문서/23-11/3주차/231113(월).md",
+                "file": "활동 문서/23-11/3주차/231115(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "29ce1c8dd6d7a1da",
+            "id": "f21657ef09039ec2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +133,12 @@
             }
           },
           {
-            "id": "3e0c15d1b7b9fdf9",
+            "id": "940fb534fc7402a8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "활동 문서/23-11/3주차/231113(월).md"
+                "file": "활동 문서/23-11/3주차/231115(수).md"
               }
             }
           }
@@ -171,27 +159,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-<<<<<<< HEAD
-  "active": "13029dfbee0319eb",
+  "active": "41b5e692551a3acd",
   "lastOpenFiles": [
-    "활동 문서/23-11/2주차/231106(월).md",
     "활동 문서/23-11/3주차/231113(월).md",
-    "활동 문서/23-11/1주차/231103(금).md",
-    "활동 문서/23-11/2주차/231110(금).md",
-    "img_src/Pasted image 20231113185650.png",
-    "img_src/Pasted image 20231113185639.png",
-    "img_src/Pasted image 20231113185632.png",
-    "img_src/Pasted image 20231113185540.png",
-    "활동 문서/23-11/3주차",
-    "기본 지식/Bash 사용.md",
-    "기본 지식/기본 컴퓨터 용어.md",
-=======
-  "active": "e6dc909a7f2995ac",
-  "lastOpenFiles": [
-    "활동 문서/23-11/2주차/231106(월).md",
-    "활동 문서/23-11/2주차/231110(금).md",
-    "활동 문서/23-11/1주차/231103(금).md",
->>>>>>> Rec/seongyeon
-    "활동 문서/23-11/1주차/231101(수).md"
+    "활동 문서/23-11/3주차/231115(수).md"
   ]
 }
