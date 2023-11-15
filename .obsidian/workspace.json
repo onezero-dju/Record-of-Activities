@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01e1550e0e1a09d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "활동 문서/23-11/2주차/231106(월).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,6 +171,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
+<<<<<<< HEAD
   "active": "13029dfbee0319eb",
   "lastOpenFiles": [
     "활동 문서/23-11/2주차/231106(월).md",
@@ -171,6 +185,13 @@
     "활동 문서/23-11/3주차",
     "기본 지식/Bash 사용.md",
     "기본 지식/기본 컴퓨터 용어.md",
+=======
+  "active": "e6dc909a7f2995ac",
+  "lastOpenFiles": [
+    "활동 문서/23-11/2주차/231106(월).md",
+    "활동 문서/23-11/2주차/231110(금).md",
+    "활동 문서/23-11/1주차/231103(금).md",
+>>>>>>> Rec/seongyeon
     "활동 문서/23-11/1주차/231101(수).md"
   ]
 }
